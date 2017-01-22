@@ -1,0 +1,13 @@
+Variable1 = 10
+Variable2 = 45
+
+Addition = Variable1 + Variable2
+
+
+
+
+print(Addition)
+
+Addition2 = Addition + 1456
+
+print(Addition2)
